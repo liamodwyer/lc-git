@@ -14,7 +14,9 @@ keypoints:
 ---
 
 ### What is Git? 
-### Git is version control software. 
+
+Git is version control software. 
+
 ### (What is version control software?)
 
 At its most basic level, version control software helps us register and track sets of changes made to files on our computer. We can then reason about and share those changes with others. As we build up sets of changes over time, we begin to see some benefits.
